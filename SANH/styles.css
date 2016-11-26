@@ -78,8 +78,7 @@ a:hover{
   display: inline;
 }
 .head-style {
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 50px;
     text-align: center;
     color: #ffffff;
 }
@@ -88,4 +87,32 @@ a:hover{
   background-repeat: no-repeat;
   background-image: url('images/resolver.jpg');
   background-attachment: fixed;
+}
+
+/* Content Styling */
+
+.white-block {
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.cushion {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+/* Text Styling */
+
+.center {
+  text-align: center;
+}
+
+.bungee {
+  font-family: 'Bungee', cursive;
+}
+
+.muli {
+  font-family: 'Muli', sans-serif;
 }
