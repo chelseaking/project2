@@ -103,10 +103,26 @@ a:hover{
   padding-bottom: 80px;
 }
 
-/* Text Styling */
+.img-padding {
+  padding-left: 80px;
+  padding-right: 80px;
+}
 
+/* Text Styling */
+.link {
+  font-weight: 600;
+  color:  #3399cc;
+}
 .center {
   text-align: center;
+}
+
+.justified {
+    text-align: justify;
+}
+
+.bold {
+  font-weight: 600;
 }
 
 .bungee {
