@@ -90,18 +90,33 @@ a:hover{
 }
 
 /* Content Styling */
+.col-xs-12 {
+    padding: 0;
+}
 
 .white-block {
-  padding-left: 50px;
-  padding-right: 50px;
   background-color: #ffffff;
   color: #000000;
 }
 
-.cushion {
+.blue-block {
+  background-color: #3399cc;
+  color: #ffffff;
+  margin: 0;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.t-b-cushion {
   padding-top: 80px;
   padding-bottom: 80px;
 }
+
+.l-r-cushion {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
 
 .img-padding {
   padding-left: 80px;
@@ -109,6 +124,7 @@ a:hover{
 }
 
 .more-info-button {
+  float: right;
   border-radius: 7px;
   border-style: solid;
   border-color: #3399cc;
@@ -125,6 +141,13 @@ a:hover{
   font-weight: 600;
   color:  #3399cc;
 }
+
+.price {
+  color: #3399cc;
+  font-size: 18px;
+  font-weight: bold;
+}
+
 .center {
   text-align: center;
 }
