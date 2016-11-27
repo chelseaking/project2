@@ -103,8 +103,8 @@ a:hover{
   background-color: #3399cc;
   color: #ffffff;
   margin: 0;
-  padding-top: 25px;
-  padding-bottom: 25px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .t-b-cushion {
@@ -113,8 +113,8 @@ a:hover{
 }
 
 .l-r-cushion {
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 
